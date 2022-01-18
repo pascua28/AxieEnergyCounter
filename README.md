@@ -1,15 +1,4 @@
 # AxieEnergyCounter
 A simple C CLI program to count axie enemies' energy
 
-
-
-Usage:
-
-Press '1' to decrement energy and '2' to increment energy
-
-Press the spacebar to go to next round
-
-Press 'n' to start a new game
-
-Press 'q' to exit the energy counter
-
+![alt text](https://user-images.githubusercontent.com/32544529/149943229-db88f64c-fed5-46f8-a41c-2082e4469896.png)
